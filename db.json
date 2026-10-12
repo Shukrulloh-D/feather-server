@@ -1,0 +1,467 @@
+{
+  "bestsellers": {
+    "title": "Shop our Bestsellers",
+    "linkLabel": "Shop All Furniture",
+    "linkHref": "#furniture"
+  },
+  "ease": {
+    "title": "Ease the pain of moving from apartment to apartment.",
+    "press": [
+      {
+        "id": 1,
+        "name": "PureWow"
+      },
+      {
+        "id": 2,
+        "name": "MYDOMAINE"
+      },
+      {
+        "id": 3,
+        "name": "mindbodygreen"
+      },
+      {
+        "id": 4,
+        "name": "Forbes"
+      },
+      {
+        "id": 5,
+        "name": "FAST COMPANY"
+      }
+    ]
+  },
+  "finalCta": {
+    "text": "Feather is the stress-free way to furnish your home",
+    "buttonLabel": "Shop Furniture",
+    "buttonHref": "#furniture"
+  },
+  "floyd": {
+    "brand": "feather × FLOYD",
+    "title": "Floyd Furniture Meets Feather Flexibility",
+    "buttonLabel": "Explore Floyd Furniture",
+    "buttonHref": "#floyd",
+    "images": [
+      {
+        "id": 1,
+        "src": "/images/floyd-shelf.png",
+        "alt": "Shelf with plant"
+      },
+      {
+        "id": 2,
+        "src": "/images/floyd-bed.png",
+        "alt": "Bed by the window"
+      }
+    ]
+  },
+  "footer": {
+    "columns": [
+      {
+        "id": 1,
+        "title": "Furniture",
+        "links": [
+          {
+            "id": 1,
+            "label": "Packages",
+            "href": "#"
+          },
+          {
+            "id": 2,
+            "label": "Living Room",
+            "href": "#"
+          },
+          {
+            "id": 3,
+            "label": "Bedroom",
+            "href": "#"
+          },
+          {
+            "id": 4,
+            "label": "Dining",
+            "href": "#"
+          },
+          {
+            "id": 5,
+            "label": "Home Office",
+            "href": "#"
+          },
+          {
+            "id": 6,
+            "label": "Decor",
+            "href": "#"
+          },
+          {
+            "id": 7,
+            "label": "Lighting",
+            "href": "#"
+          },
+          {
+            "id": 8,
+            "label": "Outdoor",
+            "href": "#"
+          },
+          {
+            "id": 9,
+            "label": "All Furniture",
+            "href": "#"
+          },
+          {
+            "id": 10,
+            "label": "Sample Sale",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "About",
+        "links": [
+          {
+            "id": 1,
+            "label": "How it Works",
+            "href": "#"
+          },
+          {
+            "id": 2,
+            "label": "About Feather",
+            "href": "#"
+          },
+          {
+            "id": 3,
+            "label": "Feather Furniture",
+            "href": "#"
+          },
+          {
+            "id": 4,
+            "label": "Reviews",
+            "href": "#"
+          },
+          {
+            "id": 5,
+            "label": "Feather for WeWork",
+            "href": "#"
+          },
+          {
+            "id": 6,
+            "label": "Feather for Business",
+            "href": "#"
+          },
+          {
+            "id": 7,
+            "label": "Feather for Staging",
+            "href": "#"
+          },
+          {
+            "id": 8,
+            "label": "Affiliate Program",
+            "href": "#"
+          },
+          {
+            "id": 9,
+            "label": "Careers",
+            "href": "#"
+          },
+          {
+            "id": 10,
+            "label": "In Your Area",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Help",
+        "links": [
+          {
+            "id": 1,
+            "label": "FAQs",
+            "href": "#"
+          },
+          {
+            "id": 2,
+            "label": "Contact us",
+            "href": "#"
+          },
+          {
+            "id": 3,
+            "label": "Privacy Policy",
+            "href": "#"
+          },
+          {
+            "id": 4,
+            "label": "Terms",
+            "href": "#"
+          },
+          {
+            "id": 5,
+            "label": "FloorFound Terms",
+            "href": "#"
+          }
+        ]
+      }
+    ],
+    "socialTitle": "Feather on social media",
+    "socials": [
+      {
+        "id": 1,
+        "label": "Email",
+        "short": "@",
+        "href": "#"
+      },
+      {
+        "id": 2,
+        "label": "Pinterest",
+        "short": "P",
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "label": "Twitter",
+        "short": "T",
+        "href": "#"
+      },
+      {
+        "id": 4,
+        "label": "Instagram",
+        "short": "Ig",
+        "href": "#"
+      },
+      {
+        "id": 5,
+        "label": "LinkedIn",
+        "short": "in",
+        "href": "#"
+      },
+      {
+        "id": 6,
+        "label": "Facebook",
+        "short": "f",
+        "href": "#"
+      }
+    ],
+    "newsletterTitle": "Join our newsletter"
+  },
+  "header": {
+    "logo": "feather",
+    "navLeft": [
+      {
+        "id": 1,
+        "label": "Furniture",
+        "href": "#furniture"
+      },
+      {
+        "id": 2,
+        "label": "Why Feather",
+        "href": "#why-feather"
+      },
+      {
+        "id": 3,
+        "label": "Feather for Business",
+        "href": "#business"
+      }
+    ],
+    "navRight": [
+      {
+        "id": 1,
+        "label": "Check if We Deliver",
+        "href": "#deliver"
+      },
+      {
+        "id": 2,
+        "label": "Search",
+        "href": "#search"
+      },
+      {
+        "id": 3,
+        "label": "Account",
+        "href": "#account"
+      }
+    ]
+  },
+  "hero": {
+    "title": "Curated and Convenient",
+    "text": "We've built our offerings on the principle that everyone deserves high-quality design without the high cost. We offer elevated rental inventory, to transform your space. Reuse and recycle - we make the decision as light as a \"feather\"",
+    "buttonLabel": "Get Started",
+    "buttonHref": "#start",
+    "image": "/images/hero.png",
+    "imageAlt": "Bright apartment with an arched doorway"
+  },
+  "mission": {
+    "quote": "\"Keeping Furniture in Homes and out of Landfills.\"",
+    "text": "This isn't just another rental company - We're elevating the future of furniture by replacing the commitment of ownership with a culture of sharing in a way that's curated, convenient, and sustainable."
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Cooper Dining Table",
+      "rent": 15,
+      "buyOld": 359,
+      "buy": 314,
+      "image": "/images/product-table.png"
+    },
+    {
+      "id": 2,
+      "name": "Croft Media Console",
+      "rent": 35,
+      "buyOld": 839,
+      "buy": 739,
+      "image": "/images/product-console.png"
+    },
+    {
+      "id": 3,
+      "name": "Essex Dining Chair",
+      "rent": 18,
+      "buyOld": 429,
+      "buy": 379,
+      "image": "/images/product-chair.png"
+    },
+    {
+      "id": 4,
+      "name": "Ludlow Sofa",
+      "rent": 52,
+      "buyOld": 1249,
+      "buy": 1099,
+      "image": "/images/product-sofa.png"
+    }
+  ],
+  "promoBlocks": [
+    {
+      "id": 1,
+      "layout": "text-image",
+      "frame": "none",
+      "title": "Enjoy a fully furnished space in less than week",
+      "text": [
+        "Feather furniture is available to be delivered and assembled in New York City, Los Angeles and San Francisco."
+      ],
+      "linkLabel": "Explore Furniture",
+      "linkHref": "#furniture",
+      "images": [
+        {
+          "src": "/images/hero.png",
+          "alt": "Furnished apartment"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "layout": "image-text",
+      "frame": "lime",
+      "title": "Garage Sale - 40% & Up",
+      "text": [
+        "Our Garage Sale is open! Savings start at 40% on favorite retired pieces. Find dressers, sofas, decor, and more to make the year one to remember.",
+        "Terms and conditions apply. View here."
+      ],
+      "linkLabel": "Shop Now",
+      "linkHref": "#sale",
+      "images": [
+        {
+          "src": "/images/promo-garage.png",
+          "alt": "Garage sale furniture"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "layout": "text-image",
+      "frame": "none",
+      "title": "Furniture for business, made simple.",
+      "text": [
+        "Say goodbye to cost, complexity, and commitment of furniture. Feather makes it easy with affordable rental plans, white glove delivery and best-in-class account service."
+      ],
+      "linkLabel": "Visit Feather For Business",
+      "linkHref": "#business",
+      "images": [
+        {
+          "src": "/images/promo-residential.png",
+          "alt": "Residential interior",
+          "label": "Residential"
+        },
+        {
+          "src": "/images/promo-office.png",
+          "alt": "Office interior",
+          "label": "Office"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "layout": "image-text",
+      "frame": "none",
+      "title": "Never assemble furniture again.",
+      "text": [
+        "We move a lot. There are countless floor plans and roommates (oh, and your evolving tastes) between here and there. With Feather, furnish your space without breaking a sweat or reaching for a screwdriver."
+      ],
+      "linkLabel": "How Feather Works",
+      "linkHref": "#how-it-works",
+      "images": [
+        {
+          "src": "/images/promo-assemble.png",
+          "alt": "Living room with sofa"
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "text": "Honestly BEST EXPERIENCE moving ever.",
+      "author": "Julie, San Francisco, CA",
+      "rating": 5,
+      "border": "#ee6c2e",
+      "shadow": "#c9bdf0",
+      "star": "#c9bdf0"
+    },
+    {
+      "id": 2,
+      "text": "Extremely easy! Browsed for furniture and it was in my new apartment within a week.",
+      "author": "Anthony, Los Angeles, CA",
+      "rating": 5,
+      "border": "#2f6fdb",
+      "shadow": "#e8c93f",
+      "star": "#e8c93f"
+    },
+    {
+      "id": 3,
+      "text": "THIS JUST MAKES SENSE. Truly obsessed with Feather.",
+      "author": "Wesley, New York City, NY",
+      "rating": 5,
+      "border": "#1d2a5b",
+      "shadow": "#9fd3c0",
+      "star": "#9fd3c0"
+    }
+  ],
+  "reviewsSection": {
+    "title": "The Reviews are In"
+  },
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Living Room",
+      "image": "/images/room-living.png",
+      "border": "#ee6c2e",
+      "shadow": "#c9bdf0"
+    },
+    {
+      "id": 2,
+      "name": "Bedroom",
+      "image": "/images/room-bedroom.png",
+      "border": "#2f6fdb",
+      "shadow": "#e8c93f"
+    },
+    {
+      "id": 3,
+      "name": "Home Office",
+      "image": "/images/room-office.png",
+      "border": "#2b2b2b",
+      "shadow": "#9fd3c0"
+    },
+    {
+      "id": 4,
+      "name": "Dining Room",
+      "image": "/images/room-dining.png",
+      "border": "#c0502b",
+      "shadow": "#b8421f"
+    }
+  ],
+  "shopByRoom": {
+    "title": "Shop by Room"
+  }
+}
